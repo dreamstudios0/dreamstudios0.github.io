@@ -19,8 +19,8 @@ if( isset($name) && isset($email) && is_email_valid($email) ) {
 	}
 
 	// Email will be send
-	$to = "mail@themedept.com";  // Change with your email address
-	$subject = "New contact from GetLeads"; // If you want a default subject
+	$to = "mail@sample.com";  // Change with your email address
+	$subject = "New contact from"; // If you want a default subject
 
 	// HTML Elements for Email Body
 	$body = <<<EOD

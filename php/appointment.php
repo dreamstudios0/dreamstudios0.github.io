@@ -22,8 +22,8 @@ if( isset($name) && isset($email) && isset($phone) && isset($date) && isset($mes
 	}
 
 	// Email will be send
-	$to = "mail@themedept.com";  // Change with your email address
-	$subject = "New appointment request from GetLeads"; // If you want a default subject
+	$to = "mail@sample.com";  // Change with your email address
+	$subject = "New appointment request from"; // If you want a default subject
 
 	// HTML Elements for Email Body
 	$body = <<<EOD

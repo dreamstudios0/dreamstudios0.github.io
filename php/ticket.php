@@ -20,8 +20,8 @@ if( isset($name) && isset($email) && isset($ticket) && isset($phone) && is_email
 	}
 
 	// Email will be send
-	$to = "mail@themedept.com";  // Change with your email address
-	$subject = "New Event Subscription from GetLeads"; // If you want a default subject
+	$to = "mail@sample.com";  // Change with your email address
+	$subject = "New Event Subscription from"; // If you want a default subject
 
 	// HTML Elements for Email Body
 	$body = <<<EOD
