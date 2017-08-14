@@ -248,12 +248,13 @@ b {
     background-color: #439FE0;
 }
 
+
 .bg-green {
     background-color: #56B68B;
 }
 
 .bg-red {
-    background-color: #e74c3c;
+    background-color: #ff564b;
 }
 
 .bg-purple {
@@ -269,7 +270,7 @@ b {
 }
 
 .bg-black {
-    background-color: #2e3234;
+    background-color: #2f2f2f;
 }
 
 .bg-white {
