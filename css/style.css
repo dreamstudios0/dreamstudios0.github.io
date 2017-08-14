@@ -280,7 +280,7 @@ b {
 /*   Background Images for demos
 /*------------------------------------------*/
 .bg-img {
-    background: url("../images/bg-1.jpg") no-repeat center center scroll;
+    background: url("../images/cisco.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size:cover;
     background-size: cover;  
@@ -1943,13 +1943,15 @@ textarea {
     width: 50%;
 }
 
+
 .dashboard-box.dashboard-right {
     right: 0;
 }
 
 .dashboard-box img {
     padding-left:20px;
-	padding-bottom: 100px;
+	padding-top: 100px;
+	
 }
 
 .owl-dashboard .owl-controls {
@@ -2146,7 +2148,9 @@ textarea {
 .content-dashboard {
     overflow-x: hidden; 
 }
-
+.content-dashboard .dash-left1 {
+    margin-left: -200px;
+}
 .content-dashboard .dash-left {
     margin-left: -400px;
 }
